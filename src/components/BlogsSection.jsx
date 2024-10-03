@@ -9,7 +9,7 @@ export default function BlogsSection() {
           {[1, 2, 3].map((item) => (
             <div key={item} className="rounded-lg border border-gray-700 bg-gray-800 text-gray-100 shadow-sm">
               <img
-                src="/placeholder.svg"
+                src="/blog.jpg"
                 alt="Blog image"
                 className="w-full h-48 object-cover rounded-t-lg"
               />
