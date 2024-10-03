@@ -9,7 +9,7 @@ export default function GallerySection() {
           {[1, 2, 3, 4, 5, 6, 7, 8].map((item) => (
             <img
               key={item}
-              src="./placeholder.svg"
+              src="./adventure.jpg"
               alt={`Adventure image ${item}`}
               className="w-full h-40 object-cover rounded-lg"
             />
