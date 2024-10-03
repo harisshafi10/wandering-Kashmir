@@ -20,7 +20,7 @@ export default function Footer() {
           <Twitter className="h-6 w-6" />
           <span className="sr-only">Twitter</span>
         </Link>
-        <Link href="https://www.instagram.com/wandering_kashmir?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-gray-400 hover:text-emerald-400">
+        <Link href="https://www.instagram.com/wandering_kashmir/" className="text-gray-400 hover:text-emerald-400">
           <Instagram className="h-6 w-6" />
           <span className="sr-only">Instagram</span>
         </Link>
