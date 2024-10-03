@@ -11,6 +11,11 @@ const Header = () => {
             <span className=" font-bold sm:inline-block text-emerald-400">WANDERING KASHMIR</span>
           </Link>
           <nav className="flex items-center space-x-6 text-sm font-medium">
+            <img
+            src="/logo.png"
+            alt="Wandering Kashmir logo"
+            className="h-8 w-8 sm:h-10 sm:w-10"
+          />
             <Link className="transition-colors hover:text-emerald-400 text-gray-400" href="#buy">
               Buy
             </Link>
